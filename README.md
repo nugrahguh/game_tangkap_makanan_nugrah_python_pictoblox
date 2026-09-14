@@ -2,18 +2,17 @@
 
 ## INFORMASI PROJECT
 
-Game ini terdapat 4 karakter : Mangkok, Makanan, Kelelawar & Belalang
+Game ini memiliki 4 karakter: Mangkok, Makanan, Kelelawar, & Belalang.
 
-Mangkok bergerak sesuai arahan
+Mangkok: Karakter utama yang bergerak sesuai arahan pemain
 
-Makanan jika makanan menyentuh mangkok, maka score +2
+Makanan: Menyentuh mangkok menambah skor +2.
 
-Kelelawar jika kelelawar menyentuh mangkok, nyawa -1
+Kelelawar: Menyentuh mangkok mengurangi nyawa -1.
 
-Belalang jika belalang menyentuh mangkok, nyawanya -2, dan memberikan notifikasi bahwa game sudah berakhir!
+Belalang: Menyentuh mangkok mengurangi nyawa -2 dan langsung menampilkan notifikasi Game Over.
 
-Permainan selesai jika nyawanya senilai 0.
-
+Kondisi Akhir: Permainan selesai ketika nyawa mencapai 0.
 
 ## FILE PROJECT
 
