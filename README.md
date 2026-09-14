@@ -2,7 +2,7 @@
 
 ## INFORMASI PROJECT
 
-Game ini memiliki 4 karakter: Mangkok, Makanan, Kelelawar, & Belalang.
+Game ini memiliki 4 karakter: Mangkok, Makanan, Kelelawar, dan Belalang.
 
 Mangkok: Karakter utama yang bergerak sesuai arahan pemain
 
